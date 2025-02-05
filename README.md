@@ -4,7 +4,7 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- <b>Microsoft Azure</b> 
+- <b>Microsoft Azur</b> 
 - <b>Virtual Machine</b>
 - <b>Remote Desktop</b>
 - <b>Internet Information Services (IIS)</b>
